@@ -1,0 +1,28 @@
+# Ignore object files and executables
+*.o
+*.out
+
+# Ignore compiled programs
+/bin/
+/build/
+/Debug/
+/Release/
+/obj/
+
+# Ignore libraries
+/lib/
+/libs/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+*.swp
+*.swo
+*~
+*.bak
+
+# Ignore generated files
+tags
+cscope.*
