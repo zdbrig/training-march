@@ -1,0 +1,18 @@
+# V build artifacts
+out/
+bin/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# System and backup files
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+*.swo
+*.log
+*.tmp
+*.temp
+*.~*
