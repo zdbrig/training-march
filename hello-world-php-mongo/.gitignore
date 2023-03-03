@@ -1,0 +1,26 @@
+# Ignore composer vendor directory
+/vendor/
+
+# Ignore any log files
+/log/*.log
+
+# Ignore any cache files
+/cache/*.cache
+
+# Ignore any session files
+/session/*.session
+
+# Ignore any compiled files
+*.class
+*.o
+*.a
+*.so
+
+# Ignore any temporary files
+*.tmp
+*.swp
+*~
+
+# Ignore IDE files
+.idea/
+.vscode/
