@@ -1,0 +1,9 @@
+source 'https://rubygems.org'
+
+# Use the latest version of the Sinatra web framework
+gem 'sinatra'
+
+# Use the latest version of the JSON library
+gem 'json'
+
+gem 'puma' 
