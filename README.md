@@ -17,6 +17,11 @@ Each project has its own folder in the repository and includes a `README.md` fil
 
 ## Usage
 
+
+### create the network
+
+```docker network create --driver bridge --subnet=10.0.0.0/24  training-march```
+
 To use any of the projects, simply navigate to its folder and follow the instructions in the corresponding `README.md` file.
 
 ## License

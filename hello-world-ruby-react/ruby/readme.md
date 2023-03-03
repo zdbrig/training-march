@@ -1,8 +1,6 @@
 ## How to run this project : 
 
-### create the network
 
-```docker network create --driver bridge --subnet=10.0.0.0/24  training-march```
 
 ### run python
 
